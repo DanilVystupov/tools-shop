@@ -1,0 +1,114 @@
+[
+  {
+    "id": "1",
+    "name": "Ручка дверная",
+    "code": "L422WH",
+    "price": {
+      "old_price": 400,
+      "current_price": 355
+    },
+    "image": {
+      "url": "https://s3-alpha-sig.figma.com/img/50e0/8c49/595892cb00107b90cb635cbd336a2d46?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ck8os9oImuXQ4sQP6dzWucI326W5HwrC3RSQdzBl5Zsbm24aNZPf~zo-0F-erjrdLmclFijmOYA~kWe7jro-Uij4mjwyQCkImF8Ev7mML2J8nYVR~EJmJ~iVbc1Pnen8WMxqUCwPDGM~zfop5eFSBLxU2CDm7MvFpYBMpY2QdOF4s4ZE9HOid1TOyEUdOEil28rRSitGbLRyhGQsX6F50fScZBMjug7EIOOTu6BRX~NJVlx8CjWBPd2ww7qdu4rQZWmfhgzBPXefrZyLM8H8N0bitMi1N0x-PSxEWF52qh2SRPHUeCqJV9j6hqGSWFT4cDmEpwh5a-gsUBPc5bYGyQ__"
+    },
+    "material": 1,
+    "isSale": true
+  },
+  {
+    "id": "2",
+    "name": "Ручка, нержавеющая сталь",
+    "code": "L423WH",
+    "price": {
+      "old_price": 400.900,
+      "current_price": 355.555
+    },
+    "image": {
+      "url": "https://s3-alpha-sig.figma.com/img/892a/40e4/565a2ab0721b8d2ae9efc0229cdda2d6?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=JmP52XKDEouIOgeh0NSajpe2pCR7etZXpPRCVO2gmFMJA7gF7iA6Akdum1zC~-1vUriCgpAvkFvhbH3A19sXrtbqBymkzpo-WIFVLJYtxa1lc7S8TeS~ij0bHxu354iBNeuAOtg5pmbLR2A0FLLfw0QdfEBe~VcHCOxXfXATHKKLaaLh-waxRgzGFL5qU2WOoJLkbXbwQBfXOV9629jjhot1nXOtHQcMNYXHyDfnT2ocxnYnGlFjTbL4I4jpBfhVhLH2LY4PYGf1eeaZrNP7nKFQD53P~zEfnVcqsN1HusqxemCjP7u0xHkzgLSGCgtBc61KiXGt~YxaYn8e-SQpLw__"
+    },
+    "material": 2,
+    "isSale": true
+  },
+  {
+    "id": "3",
+    "name": "Стандартные петли",
+    "code": "P424WN",
+    "price": {
+      "old_price": null,
+      "current_price": 75
+    },
+    "image": {
+      "url": "https://s3-alpha-sig.figma.com/img/5f23/394e/47ae34531ad5fc3d02178315f9e73a0f?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NRI7TlBsSrmN03bjxhre8x0~Nu-mMCwOP~s5~1GnDf79APvsSRjK22iis3TThsbk8Gw-b6aRo84b1asLq-eeB6bgYjWKkBIsSDdFskmlHJsOkH~dmjUs4RnWeZqSNiPD7RD~LGM1vFtN1XbeL98bHl09V~3Neu3a9FHa6iHCZut6BWNCODbZoS00cMeBbnPMAg23p4iQttsvbq-MMFhb3eWxaGZrTx-AbX5OaW~D8n6S~LUix9yeETliEji~Wmu9NAGvAsu9vyQ6R-6ogrlRqMyQFeLqe2jdE4UVC38U7ZNfSocg2qmdFpg2Cxy1Buyrre0vt2uW9Mdocf8m0WXBSw__"
+    },
+    "material": 2,
+    "isSale": false
+  },
+  {
+    "id": "4",
+    "name": "Петля со стопором",
+    "code": "PW5AC",
+    "price": {
+      "old_price": 270,
+      "current_price": 200
+    },
+    "image": {
+      "url": "https://s3-alpha-sig.figma.com/img/9934/687b/322966679e2558cfee895e5db43a1afc?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UksryKh7ii3IycKhS~nwdzKmwveFo4P3ktiqaJOVeJnRWc6W0CfddPdGH~XUji-XO0uoIyLLUrGneD0T66suqG6jO8n2BZr4PwOreD55ulnhDlhpSf5Rrbe2v306WZi5asQerbfve1vJM6M4G93XouI6f9F5Y2E6KUv5lbgQIuHyCSWJS-ZyCtS59ohcyM8BAnnPW9NMenIK8qt6ZPJ15nJ8QKqT-EkRYcGbeVl5sYU~4iH-TLG06WlVBwUcvLF1-RX0s8kPVYvfIQG3xjbMjKTsKsiwqm9yyHfkEHfDlPrQLZrBuQGZyilza14XYUmtUS1h9AkCBZd5vRMQV7gcBA__"
+    },
+    "material": 2,
+    "isSale": false
+  },
+  {
+    "id": "5",
+    "name": "Ручка дверная",
+    "code": "LM352",
+    "price": {
+      "old_price": null,
+      "current_price": 720
+    },
+    "image": {
+      "url": "https://s3-alpha-sig.figma.com/img/50e0/8c49/595892cb00107b90cb635cbd336a2d46?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ck8os9oImuXQ4sQP6dzWucI326W5HwrC3RSQdzBl5Zsbm24aNZPf~zo-0F-erjrdLmclFijmOYA~kWe7jro-Uij4mjwyQCkImF8Ev7mML2J8nYVR~EJmJ~iVbc1Pnen8WMxqUCwPDGM~zfop5eFSBLxU2CDm7MvFpYBMpY2QdOF4s4ZE9HOid1TOyEUdOEil28rRSitGbLRyhGQsX6F50fScZBMjug7EIOOTu6BRX~NJVlx8CjWBPd2ww7qdu4rQZWmfhgzBPXefrZyLM8H8N0bitMi1N0x-PSxEWF52qh2SRPHUeCqJV9j6hqGSWFT4cDmEpwh5a-gsUBPc5bYGyQ__"
+    },
+    "material": 1,
+    "isSale": false
+  },
+  {
+    "id": "6",
+    "name": "Ручка, нержавеющая сталь",
+    "code": null,
+    "price": {
+      "old_price": null,
+      "current_price": 355.555
+    },
+    "image": {
+      "url": "https://s3-alpha-sig.figma.com/img/892a/40e4/565a2ab0721b8d2ae9efc0229cdda2d6?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=JmP52XKDEouIOgeh0NSajpe2pCR7etZXpPRCVO2gmFMJA7gF7iA6Akdum1zC~-1vUriCgpAvkFvhbH3A19sXrtbqBymkzpo-WIFVLJYtxa1lc7S8TeS~ij0bHxu354iBNeuAOtg5pmbLR2A0FLLfw0QdfEBe~VcHCOxXfXATHKKLaaLh-waxRgzGFL5qU2WOoJLkbXbwQBfXOV9629jjhot1nXOtHQcMNYXHyDfnT2ocxnYnGlFjTbL4I4jpBfhVhLH2LY4PYGf1eeaZrNP7nKFQD53P~zEfnVcqsN1HusqxemCjP7u0xHkzgLSGCgtBc61KiXGt~YxaYn8e-SQpLw__"
+    },
+    "material": 2,
+    "isSale": false
+  },
+  {
+    "id": "7",
+    "name": "Стандартные петли",
+    "code": "WD14LK",
+    "price": {
+      "old_price": null,
+      "current_price": 75
+    },
+    "image": {
+      "url": "https://s3-alpha-sig.figma.com/img/5f23/394e/47ae34531ad5fc3d02178315f9e73a0f?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=NRI7TlBsSrmN03bjxhre8x0~Nu-mMCwOP~s5~1GnDf79APvsSRjK22iis3TThsbk8Gw-b6aRo84b1asLq-eeB6bgYjWKkBIsSDdFskmlHJsOkH~dmjUs4RnWeZqSNiPD7RD~LGM1vFtN1XbeL98bHl09V~3Neu3a9FHa6iHCZut6BWNCODbZoS00cMeBbnPMAg23p4iQttsvbq-MMFhb3eWxaGZrTx-AbX5OaW~D8n6S~LUix9yeETliEji~Wmu9NAGvAsu9vyQ6R-6ogrlRqMyQFeLqe2jdE4UVC38U7ZNfSocg2qmdFpg2Cxy1Buyrre0vt2uW9Mdocf8m0WXBSw__"
+    },
+    "material": 2,
+    "isSale": false
+  },
+  {
+    "id": "8",
+    "name": "Петля со стопором",
+    "code": null,
+    "price": {
+      "old_price": 1200,
+      "current_price": 900
+    },
+    "image": {
+      "url": "https://s3-alpha-sig.figma.com/img/9934/687b/322966679e2558cfee895e5db43a1afc?Expires=1714953600&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=UksryKh7ii3IycKhS~nwdzKmwveFo4P3ktiqaJOVeJnRWc6W0CfddPdGH~XUji-XO0uoIyLLUrGneD0T66suqG6jO8n2BZr4PwOreD55ulnhDlhpSf5Rrbe2v306WZi5asQerbfve1vJM6M4G93XouI6f9F5Y2E6KUv5lbgQIuHyCSWJS-ZyCtS59ohcyM8BAnnPW9NMenIK8qt6ZPJ15nJ8QKqT-EkRYcGbeVl5sYU~4iH-TLG06WlVBwUcvLF1-RX0s8kPVYvfIQG3xjbMjKTsKsiwqm9yyHfkEHfDlPrQLZrBuQGZyilza14XYUmtUS1h9AkCBZd5vRMQV7gcBA__"
+    },
+    "material": 2,
+    "isSale": false
+  }
+]
